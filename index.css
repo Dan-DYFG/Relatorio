@@ -1,0 +1,72 @@
+.all-box{
+    border: 8px solid #1F739D;
+    border-radius: 20px;
+    margin: 10px;
+    width: 55%;
+    height: 55%;
+    padding: 10px;   
+}
+.header{
+    border: solid 1px black;
+    margin: 5px;
+    text-align: center;
+}
+.box-dados{
+    border: 1px solid black;
+    margin: 5px;
+}
+.dados{
+    border: 1px solid black;
+    padding: 5px;
+    margin: 5px;
+    display: flex;
+    flex-direction: column;
+}
+.main{
+    border: black solid 1px;
+    padding: 4px;
+    margin: 5px;
+    
+}
+.prontuario{
+    border: solid 1px black;
+    padding: 3px;
+    text-align: center;
+    background-color: rgb(180, 180, 180);
+}
+.footer{
+    border: black solid 1px;
+    margin: 5px;
+}
+.evolucoes{
+    border: black solid 1px;
+    margin: 5px;
+    padding: 3px;
+    text-align: center;
+    background-color: rgb(180, 180, 180);
+}
+.data-box1{
+    border: black solid 1px;
+    padding: 3px;
+    margin: 5px;
+    padding-bottom: 35px;
+}
+.data-box2{
+    border: black solid 1px;
+    margin: 5px;
+    padding: 3px;
+    padding-bottom: 35px;
+}
+.profissional{
+    border: black solid 1px;
+    margin: 5px;
+    padding: 7px;
+    padding-top: 15px;
+}
+.background{
+    background-color: rgb(180, 180, 180);
+    border: black solid 1px;
+    padding: 8px;
+    margin-top: 15px;
+         
+}
