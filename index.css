@@ -1,72 +1,89 @@
+@media screen and (max-width: 768){
+}
+@media screen and (max-width: 375){ 
+}
 .all-box{
-    border: 8px solid #1F739D;
-    border-radius: 20px;
+    border: solid 4px rgb(92, 151, 219);
+    border-radius: 4px;
     margin: 10px;
     width: 55%;
     height: 55%;
     padding: 10px;   
 }
+    
 .header{
-    border: solid 1px black;
+    border: solid 1px #575E6B;
     margin: 5px;
+    color: #3F4D62;
     text-align: center;
 }
 .box-dados{
-    border: 1px solid black;
+    border: 1px solid gray;
     margin: 5px;
 }
+td{
+    border: solid gray 1px;
+    padding: 7px;
+    text-align: center;
+}
 .dados{
-    border: 1px solid black;
     padding: 5px;
+    color: #3F4D62;
     margin: 5px;
     display: flex;
     flex-direction: column;
 }
 .main{
-    border: black solid 1px;
+    border: gray solid 1px;
     padding: 4px;
     margin: 5px;
-    
+    color: #575E6B;
 }
 .prontuario{
-    border: solid 1px black;
+    border: solid 1px gray;
     padding: 3px;
     text-align: center;
+    color: #3F4D62;
     background-color: rgb(180, 180, 180);
 }
 .footer{
-    border: black solid 1px;
+    border: gray solid 1px;
     margin: 5px;
 }
 .evolucoes{
-    border: black solid 1px;
+    border: gray solid 1px;
     margin: 5px;
     padding: 3px;
     text-align: center;
     background-color: rgb(180, 180, 180);
 }
 .data-box1{
-    border: black solid 1px;
+    border: gray solid 1px;
     padding: 3px;
     margin: 5px;
+    color: #3F4D62;
     padding-bottom: 35px;
 }
 .data-box2{
-    border: black solid 1px;
+    border: gray solid 1px;
+    color: #3F4D62;
     margin: 5px;
     padding: 3px;
     padding-bottom: 35px;
 }
+.evolucoes{
+    color: #3F4D62;
+}
 .profissional{
-    border: black solid 1px;
+    border: gray solid 1px;
     margin: 5px;
+    color: #3F4D62;
     padding: 7px;
     padding-top: 15px;
 }
 .background{
     background-color: rgb(180, 180, 180);
-    border: black solid 1px;
+    border: gray solid 1px;
     padding: 8px;
-    margin-top: 15px;
-         
+    margin-top: 15px;         
 }
